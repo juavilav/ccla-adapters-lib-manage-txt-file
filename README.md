@@ -1,0 +1,1 @@
+# ccla-adapters-lib-manage-txt-file
